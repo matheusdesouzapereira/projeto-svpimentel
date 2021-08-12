@@ -11,3 +11,5 @@ Sobre o projeto:
 # Link para o projeto:
 
 https://svpimentel.com.br/
+
+- Se o site por algum motivo for modificado por outro desenvolvedor ou sair do ar, segue na listagem dos arquivos desse repositório a imagem da index do site original.
