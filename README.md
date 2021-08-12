@@ -19,4 +19,4 @@ Sobre o projeto:
 
 https://svpimentel.com.br/
 
-- Se o site por algum motivo for modificado por outro desenvolvedor ou sair do ar, segue na listagem dos arquivos desse repositório a imagem da index do site original.
+- Se o site por algum motivo for modificado por outro desenvolvedor ou sair do ar, segue na listagem dos arquivos desse repositório a imagem da index do site original, listagem de produtos por categoria e exibição de produtos individuais.
